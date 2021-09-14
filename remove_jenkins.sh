@@ -1,1 +1,1 @@
-docker rm --name myjenkins
+docker rm myjenkins

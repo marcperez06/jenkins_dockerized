@@ -1,2 +1,2 @@
-docker stop --name myjenkins  
+docker stop myjenkins  
 docker network rm jenkins
